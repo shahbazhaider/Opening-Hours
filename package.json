@@ -14,7 +14,8 @@
     "expo-constants": "~13.2.4",
     "@expo/vector-icons": "^13.0.0",
     "react-native-paper": "4.9.2",
-    "moment": "*"
+    "moment": "*",
+     "@expo/vector-icons/MaterialCommunityIcons": "^13.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
